@@ -48,7 +48,7 @@ I'm a passionate MERN Stack Developer focused on building modern, scalable, and 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
 ### 🗄️ Databases & Data
@@ -68,6 +68,7 @@ I'm a passionate MERN Stack Developer focused on building modern, scalable, and 
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,kubernetes" />
 </p>
 
 ### Tools
