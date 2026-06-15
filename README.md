@@ -51,6 +51,19 @@ I'm a passionate MERN Stack Developer focused on building modern, scalable, and 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
+### 🗄️ Databases & Data
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" height="42" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" height="42" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" height="42" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" height="42" />
+</p>
+
+✔ Relational Databases (SQL, MySQL, PostgreSQL)  
+✔ NoSQL Databases (MongoDB)  
+✔ Database Design, Indexing & Query Optimization  
+
+
 ### Cloud & DevOps
 
 <p>
