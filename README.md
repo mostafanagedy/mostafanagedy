@@ -42,7 +42,7 @@ I'm a passionate MERN Stack Developer focused on building modern, scalable, and 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,redux,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,redux,vite,cpp,java" />
 </p>
 
 ### Backend
