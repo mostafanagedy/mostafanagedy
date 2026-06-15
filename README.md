@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mostafanagedy/mostafanagedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mostafa Nagdy
 
-Here are some ideas to get you started:
+### MERN Stack Developer | React.js | Node.js | Express.js | MongoDB | AWS Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a MERN Stack Developer passionate about building scalable and responsive web applications.
+
+🎓 Graduate of Sohag University
+
+⚛️ Specialized in React.js
+
+🛠️ Building APIs using Node.js & Express.js
+
+🗄️ Working with MongoDB
+
+☁️ Currently learning AWS Cloud
+
+🎯 Goal: Become a Professional Full Stack Engineer
