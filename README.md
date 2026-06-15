@@ -68,7 +68,7 @@ I'm a passionate MERN Stack Developer focused on building modern, scalable, and 
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker" />
-<img src="https://skillicons.dev/icons?i=git,kubernetes" />
+<img src="https://skillicons.dev/icons?i=linux,jenkins,kubernetes" />
 </p>
 
 ### Tools
