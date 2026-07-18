@@ -26,5 +26,6 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update snake animation"
+          commit_message: "Update contribution snake animation"
           file_pattern: output/*
+          branch: output
